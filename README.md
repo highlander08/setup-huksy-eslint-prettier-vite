@@ -1,1 +1,2 @@
-# setup-huksy-eslint-prettier-vite
+config nextjs tb -->
+https://valchan.com.br/lint-staged-husky/
